@@ -15,7 +15,7 @@ A small working prototype of a **Voice AI acquisitions agent** that:
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 | Component | Purpose |
 |------------|----------|
@@ -25,7 +25,7 @@ A small working prototype of a **Voice AI acquisitions agent** that:
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
